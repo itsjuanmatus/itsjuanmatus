@@ -1,16 +1,17 @@
-### Hi there 👋
+# Read.me
 
-<!--
-**itsjuanmatus/itsjuanmatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! It's Juan Matus here.
 
-Here are some ideas to get you started:
+### I'm a Software Engineering Student at Keiser University and Software Analyst at National Water Authority in Nicaragua 🇳🇮
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👨🏻‍💻Currently working on a web app for cooperatives
+
+📚Currently learning ReactJS 
+
+🎬I'm starting a YouTube channel ([you can check it out here](https://www.youtube.com/channel/UCU3megO3PrCIbTUoaAeiPvQ))
+
+🎹I like to play piano 
+
+☕️I love coffee
