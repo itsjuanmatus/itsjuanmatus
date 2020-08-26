@@ -1,6 +1,6 @@
 ### Hi! It's Juan Matus here.
 
-### I'm a Software Engineering Student at Keiser University and Software Analyst at National Water Authority in Nicaragua 🇳🇮
+### I'm a Software Engineering Student at Keiser University and Software Analyst at National Water Authority in Nicaragua
 
 ---
 
