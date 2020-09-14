@@ -4,7 +4,7 @@
 
 ---
 
-👨🏻‍ 💻Currently working on a web app for cooperatives
+👨🏻‍ 💻  Currently working on a web app for cooperatives
 
 📚 Currently learning ReactJS 
 
