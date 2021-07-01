@@ -1,15 +1,13 @@
 ### Hi! It's Juan Matus here.
 
-### I'm a Software Engineering Student at Keiser University 
-
 ---
 
-👨🏻‍ 💻  Currently working on a web app for cooperatives
+👨🏻‍ 💻  Currently working on personal projects
 
-📚 Currently learning ReactJS 
+📚 Currently getting better at ReactJS and Semantic Web Technologies.
 
 🎬 I'm starting a YouTube channel ([you can check it out here](https://www.youtube.com/channel/UCU3megO3PrCIbTUoaAeiPvQ))
 
-🎹 I like to play piano 
+🎹 I like to play the piano 
 
-☕️ I love coffee
+☕️ coffee addict
