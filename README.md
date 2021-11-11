@@ -3,7 +3,7 @@ Portfolio under construction
 
 ---
 
-👨🏻‍💻  Currently working at Nicasource
+👨🏻‍💻  Software Engineer / Frontend Developer at Nicasource
 
 📚 Currently getting better at NextJS and ExpressJS
 
