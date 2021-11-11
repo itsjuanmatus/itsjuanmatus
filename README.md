@@ -3,7 +3,7 @@ Portfolio under construction
 
 ---
 
-👨🏻‍ 💻  Currently working on personal projects
+👨🏻‍💻  Currently working on personal projects
 
 📚 Currently getting better at NextJS and ExpressJS
 
