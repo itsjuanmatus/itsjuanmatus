@@ -5,7 +5,7 @@ Portfolio under construction
 
 👨🏻‍💻  Software Engineer / Frontend Developer at Nicasource
 
-📚 Currently getting better at NextJS and ExpressJS
+📚 Currently getting better at NextJS, Gatsby, and ExpressJS
 
 🎬 I'm starting a YouTube channel ([you can check it out here](https://www.youtube.com/channel/UCU3megO3PrCIbTUoaAeiPvQ))
 
