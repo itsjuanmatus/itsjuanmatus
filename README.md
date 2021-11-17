@@ -1,6 +1,4 @@
 ### Hi! It's Juan Matus here.
-Portfolio under construction
-
 ---
 
 👨🏻‍💻  Software Engineer / Frontend Developer at Nicasource
