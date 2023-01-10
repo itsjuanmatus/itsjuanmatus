@@ -3,7 +3,7 @@
 
 Go to my [website](https://juanmatus.dev/)
 
-👨🏻‍💻  Software Engineer / Frontend Developer at Nicasource
+👨🏻‍💻  Engineering Team Lead / Frontend Engineer at Nicasource
 
 📚 Currently getting better at NextJS and NestJS
 
